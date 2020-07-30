@@ -1,1 +1,3 @@
-# code-wars-go
+## code-wars-go
+
+Just for study
